@@ -5,9 +5,7 @@ Trusting what it produced — that is the hard part. Jaryn builds systems
 that keep long, delegated work aligned, reviewed and on the record, from
 brief to closeout.
 
-Three products, at three stages. This page is about work you can read, not
-claims: if you only have a minute,
-[read one real session](https://github.com/jaryn-io/tandem/tree/main/sessions).
+Three products, at three stages.
 
 ## Tandem
 
@@ -142,10 +140,8 @@ needs a mechanism. Thanks for publishing it.
 
 ## What you will find here
 
-- [`tandem`](https://github.com/jaryn-io/tandem) — what Tandem is and how a
-  session works, with [`sessions/`](https://github.com/jaryn-io/tandem/tree/main/sessions):
-  complete, real session records in the same format you get on your own
-  machine. Releases and documentation as they ship.
+- [`tandem`](https://github.com/jaryn-io/tandem) — the first product: what it
+  is, how it works, releases and documentation as they ship.
 - [jaryn.io](https://jaryn.io) — product pages, in private preview.
 
 Watch this organisation to follow the work.
